@@ -4,10 +4,10 @@ Angular-Learning-Resources
 A repo that keeps tracks of various resources that has/will help me learn Angular
 
 ### Table of Contents
-[Testing](#Testing)  
-[Model](#Model)  
-[General](#General)  
-[Code Organization](#Code-Organization)
+[Testing](#testing)  
+[Model](#model)  
+[General](#general)  
+[Code Organization](#code-Organization)
 
 ## General
 * [John Papa's 10 AngularJS Patterns] (https://www.youtube.com/watch?v=UlvCbnKAH3g)
