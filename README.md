@@ -7,7 +7,7 @@ A repo that keeps tracks of various resources that has/will help me learn Angula
 [Testing](#testing)  
 [Model](#model)  
 [General](#general)  
-[Code Organization](#code-Organization)
+[Code Organization](#code-organization)
 
 ## General
 * [John Papa's 10 AngularJS Patterns] (https://www.youtube.com/watch?v=UlvCbnKAH3g)
