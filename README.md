@@ -21,3 +21,5 @@ A repo that keeps tracks of various resources that has/will help me learn Angula
 
 ## Code-Organization
 * [Component Code Organization] (https://docs.google.com/document/d/1XXMvReO8-Awi1EZXAXS4PzDzdNvV6pGcuaF4Q9821Es/pub)
+* [Jeff Dickey: Best Practices for building Angular Apps] (https://medium.com/@dickeyxxx/best-practices-for-building-angular-js-apps-266c1a4a6917)
+* [Cliff Meyers: Code Organization AngularJs Javascript] (http://cliffmeyers.com/blog/2013/4/21/code-organization-angularjs-javascript)
