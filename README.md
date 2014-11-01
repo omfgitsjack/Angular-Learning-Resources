@@ -5,6 +5,7 @@ A repo that keeps tracks of various resources that has/will help me learn Angula
 
 ### Table of Contents
 [Javascript](#javascript)  
+[Design Patterns](#design-patterns)
 [Testing](#testing)  
 [Model](#model)  
 [General](#general)  
@@ -12,6 +13,9 @@ A repo that keeps tracks of various resources that has/will help me learn Angula
 
 ## Javascript
 * [Functional Programming in Javascript] (http://reactive-extensions.github.io/learnrx/)
+
+## Design Patterns
+* [Flux] (http://facebook.github.io/flux/docs/overview.html)
 
 ## General
 * [John Papa's 10 AngularJS Patterns] (https://www.youtube.com/watch?v=UlvCbnKAH3g)
